@@ -1,0 +1,28 @@
+body{
+  background-color: #354259;
+  color: #C2DED1;
+  font-family: sans-serif;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 30%;
+}
+h1{
+  color: #FFF89A;
+}
+
+strong{
+  color: #FFF89A;
+}
+
+h3{
+  color: #C0A080;
+}
+a{
+  color: lightgreen;
+}
+img{
+  border-radius: 100%;
+}
